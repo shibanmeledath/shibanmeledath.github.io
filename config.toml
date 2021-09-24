@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-title = "Muhammed Iqbal P B"
+title = "Shiban M"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,13 +12,13 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Muhammed Iqbal P B"
-description = "Iqbal's personal website"
+author = "Shiban M"
+description = "shiban's personal website"
 keywords = "blog,developer,personal"
-info = ["DevOps @ Emvigo", "WordPress Freelancer","Campus Community Manager @ TinkerHub"]
+info = ["Student @ college of engineering cherthala", "Computer Science","1st year"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
-footerContent = "More Details @ iqbalpb.com"
+footerContent = "More Details @ shiban.com"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = false
@@ -103,19 +103,19 @@ author = "authors"
 name = "Github"
 icon = "fa fa-github"
 weight = 1
-url = "https://github.com/iqbalpb01/"
+url = "https://github.com/shibanmeledath/"
 
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-twitter"
+name = "Facebook"
+icon = "fa fa-facebook"
 weight = 3
-url = "https://twitter.com/iqbalpb01/"
+url = "https://www.facebook.com/shiban.m"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/iqbalpb/"
+url = "www.linkedin.com/in/shiban-m-277053215"
 
 [languages.en]
 languageName = ":uk:"
