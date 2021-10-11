@@ -115,7 +115,7 @@ url = "https://www.facebook.com/shiban.m"
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 4
-url = "www.linkedin.com/in/shiban-m-277053215"
+url = "www.linkedin.com/in/shiban-m-277053215/"
 
 [languages.en]
 languageName = ":uk:"
